@@ -1,6 +1,6 @@
 # Iron Chef Leftover
 
-[Check the website here](http://76.167.106.227/)
+Check the website [HERE](ttp://76.167.106.227/)
 
 Ever come home to find your fridge filled with random leftover ingredients, and you have no clue what meal you can make with a bag of hot dogs, coriander, and a half stick of butter? (That is what is currently in my fridge...)
 
