@@ -13,7 +13,7 @@ body {
 a {
   text-decoration: underline;
   font-weight: 500;
-  color: #F54882;
+  color: #69F0AE;
 }
 
 #blurred-background {
@@ -92,7 +92,7 @@ html {
 
 .error-text {
   text-align: center;
-  color: #F54882;
+  color: #69F0AE;
   font-size: 25px;
   font-weight: 300;
 }
@@ -104,13 +104,14 @@ html {
 
 #nav-bar {
   top: 0;
-  padding: 5px 25px 5px 25px;
+  padding: 15px 40px 15px 40px;
   height: 35px;
   line-height: 35px;
-  text-align: left;
+  text-align: right;
 }
 
 .nav-button {
+  padding: 30px;
   background:none;
   border:none;
   font-size: 1em;
@@ -126,7 +127,7 @@ html {
 }
 
 .nav-button:hover {
-  color: white;
+  color: #69F0AE;
 }
 
 input:focus,
@@ -246,7 +247,6 @@ button, input, select, textarea {
   font-weight: 600;
   font-size: 2em;
   margin: 0.3em 0;
-  color: #69F0AE;
 }
 
 .recipe-cards .ratings {
@@ -305,7 +305,7 @@ button, input, select, textarea {
 }
 
 .separator {
-  border-top: 5px solid #F54882;
+  border-top: 5px solid #69F0AE;
   padding: 0;
   margin: 0.7em 0;
   width: 5%;
