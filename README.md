@@ -14,9 +14,9 @@ $ npm start
 ```
 
 ## Built By
-[Peian Wang](https://github.com/mangopeian) 
+[Peian Wang](https://github.com/mangopeian)
 
-[Yirui Chen]
+[Yirui Chen](https://github.com/yiruic)
 
 ## Credits
 Ingredient search is powered by [Yummley API](https://developer.yummly.com/)
